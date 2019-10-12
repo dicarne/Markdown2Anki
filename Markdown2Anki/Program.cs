@@ -51,7 +51,7 @@ namespace Markdown2Anki
                 }
                 
             }
-
+            Console.WriteLine("Complete!");
         }
 
         /// <summary>

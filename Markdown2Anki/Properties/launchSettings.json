@@ -1,8 +1,7 @@
 {
   "profiles": {
     "Markdown2Anki": {
-      "commandName": "Project",
-      "commandLineArgs": "我的错题-660-填空-高数.md"
+      "commandName": "Project"
     }
   }
 }
