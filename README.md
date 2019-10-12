@@ -1,5 +1,5 @@
 ﻿### 环境
-基于.Net Care3.0开发。  
+基于.Net Core3.0开发。  
 
 ### 用途
 将Markdown书写的卡片集转换成Anki所认识的格式，并将$$转换成Anki中Mathjax使用的\(...\)。  
